@@ -1,1 +1,1 @@
-# test
+# This mini-project on MNIST entails a classification implementation for handwritten digits using the scikit-learn library. Trained on the MNIST dataset, the model achieves an accuracy of over 95%. The code features a straightforward implementation utilizing machine learning algorithms.
